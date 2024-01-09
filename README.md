@@ -26,7 +26,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/ridhoriky/blog-preview-card-challenge)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live Demo](https://blog-preview-card-challenge-seven.vercel.app/)
 
 ## Built with
 
