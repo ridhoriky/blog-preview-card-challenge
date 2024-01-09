@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github]([https://your-solution-url.com](https://github.com/ridhoriky/blog-preview-card-challenge))
+- Solution URL: [Github](https://github.com/ridhoriky/blog-preview-card-challenge)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## Built with
